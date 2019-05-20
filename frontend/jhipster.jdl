@@ -1,0 +1,7 @@
+NAME_MIN_LENGTH = 3
+NAME_MAX_LENGTH = 100
+
+entity Event (hipster_event) {
+    name String required minlength(NAME_MIN_LENGTH) maxlength(NAME_MAX_LENGTH),
+    description TextBlob,
+}

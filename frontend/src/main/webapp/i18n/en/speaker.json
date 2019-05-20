@@ -1,0 +1,23 @@
+{
+  "frontendApp": {
+    "speaker": {
+      "home": {
+        "title": "Speakers",
+        "createLabel": "Create a new Speaker",
+        "createOrEditLabel": "Create or edit a Speaker"
+      },
+      "created": "A new Speaker is created with identifier {{ param }}",
+      "updated": "A Speaker is updated with identifier {{ param }}",
+      "deleted": "A Speaker is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Speaker {{ id }}?"
+      },
+      "detail": {
+        "title": "Speaker"
+      },
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "bio": "Bio"
+    }
+  }
+}
