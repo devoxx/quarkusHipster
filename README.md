@@ -128,6 +128,7 @@ Now that the backend is running we can start the Angular frontend as follows:
 
 > cd frontend
 
+> npm install
 > npm start
 
 Navigate to:
