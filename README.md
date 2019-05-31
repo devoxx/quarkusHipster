@@ -17,7 +17,7 @@ The backend code is very straight forward and uses the following Quarkus (extens
  
 This demo application is based on the Quarkus example project  'hibernate-orm-panache-resteasy' provided by the RedHat team @ https://github.com/quarkusio/quarkus-quickstarts
 
-Thanks to the Quarkus (Red Hat), JHipster, GraaVM teams for their amazing work! 
+Thanks to the Quarkus (Red Hat), JHipster, GraalVM teams for their amazing work! 
 
 
 ## Requirements
