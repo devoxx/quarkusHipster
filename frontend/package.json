@@ -44,7 +44,7 @@
     "angular2-template-loader": "0.6.2",
     "autoprefixer": "9.5.0",
     "base-href-webpack-plugin": "2.0.0",
-    "browser-sync": "2.26.5",
+    "browser-sync": "2.29.1",
     "browser-sync-webpack-plugin": "2.2.2",
     "cache-loader": "2.0.1",
     "codelyzer": "5.0.0",
